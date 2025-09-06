@@ -93,7 +93,8 @@
 
 # My Stats🔥
 ---
-![Snake animation](https://github.com/YukiHimari/YukiHimari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YukiHimari/YukiHimari/output/github-contribution-grid-snake.svg)
+
 
 
 
