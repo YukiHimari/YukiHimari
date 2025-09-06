@@ -91,6 +91,9 @@
     </td>
 </table>
 
+# My Stats🔥
+---
+![Snake animation](https://github.com/YukiHimari/YukiHimari/blob/output/github-contribution-grid-snake.svg)
 
 
 
