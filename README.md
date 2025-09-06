@@ -22,7 +22,18 @@
 - Database
 - Cloud Concepts
 
-# 🖥️ My Tech Stack
+# Featured Projects  🤖 
+---
+<p float="left">
+  <a href="https://github.com/YukiHimari/TeachTeam-WebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YukiHimari&repo=TeachTeam-WebApp" width="200" />
+  </a>
+    <a href="https://github.com/YukiHimari/SuperEvent-JavaFX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YukiHimari&repo=SuperEvent-JavaFX" width="200" />
+  </a>  
+</p>
+
+# My Tech Stack  🖥️ 
 ---
 <table>
   <tr>
@@ -93,10 +104,25 @@
 
 # My Stats🔥
 ---
-![Snake animation](https://raw.githubusercontent.com/YukiHimari/YukiHimari/output/github-contribution-grid-snake.svg)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YukiHimari&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YukiHimari&theme=radical" width="350"/>
+</p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiHimari&layout=compact&theme=radical)
 
+### Github Contribution
 
+![GitHub Contributions](https://ghchart.rshah.org/YukiHimari)
+
+# Motivation 💪
+---  
+> "It's never a 100% chance of failure until you give up❗"
+---
+
+<p align="center">
+  🌸🌸 End of Yuki's Profile 🌸🌸
+</p>
 
 
 
